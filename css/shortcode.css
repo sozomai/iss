@@ -1,0 +1,163 @@
+#type_menu ul {
+	list-style: none;
+	float: left;
+	position: relative;
+	left: 100px;
+	margin: 0;
+}
+
+#type_menu ul li {
+	float: left;
+	margin: 10px 20px;
+}
+
+#lang_menu ul {
+	list-style: none;
+	float: left;
+	clear: left;
+	margin: 0 10px;
+}
+
+#retrieve_files {
+	float: left;
+	margin: 10px 0 0 50px;
+}
+
+.file-item{
+	display: none;
+}
+
+.choosen-type.choosen-lang{
+	display: table-row;
+}
+
+.type-menu-item.active-state{
+	background: url('./chalk-line.png') no-repeat bottom center;
+}
+
+.lang-menu-item.active-state{
+	background: url('./chalk-line-short.png') no-repeat bottom center;
+}
+
+a.type-menu-item,
+a.lang-menu-item {
+	color: #fff!important;
+	text-decoration: none;
+}
+
+#file_div {
+	max-width: 700px;
+	float: left;
+}
+
+#file_table{
+}
+
+#submit_cell{
+	text-align: right;
+}
+
+td.check_cell{
+	width:27px;
+}
+
+td.name_cell{
+
+}
+
+td.type_lang_cell{
+	width:140px;
+}
+
+.hidden {
+	display: none!important;
+}
+
+.error {
+	color: red!important;
+}
+
+.error_border {
+	border:solid 3px red!important;
+}
+
+#files_ready{
+	margin: auto;
+	max-width: 500px;
+	text-align: center;
+}
+
+#getting_started{
+	max-width: 570px;
+	margin:0 auto;
+}
+
+#getting_started_button{
+	float: right;
+}
+#getting_started_wrap{
+	float: right;
+}
+
+
+#ui-dialog-titlebar{
+	border-color:#3b7295;
+	background: #3b7295;
+	color: #fff;
+	text-align: center;
+}
+
+.ui-dialog, .ui-dialog-buttonpane {
+	background: #686868;
+}
+
+.ui-dialog-content {
+	color: #fff;
+	font-size: .7em;
+}
+
+.ui-dialog-buttonset {
+	font-size: .6em;
+}
+
+#progressbar .ui-progressbar-value {
+background-color: #3b7295;
+}
+
+#progressbar.ui-front {
+	background: #000;
+	width: 50%;
+	position: fixed;
+	top: 50%;
+	left: 25%;
+}
+
+/* License CSS */
+
+#license-content{
+	border: 1px solid;
+	padding: 0 30px;
+	max-width: 700px;
+	margin: auto;
+	clear: both;
+	font-size: .75em;
+}
+
+#full-license {
+	border: 2px groove;
+	background: #fff;
+	color: #000;
+	padding: 10px 20px;
+	font-size: .8em;
+	height: 500px;
+	overflow: auto;
+	margin-bottom: 20px;
+}
+
+#full-license h1,
+#full-license h2,
+#full-license h3,
+#full-license h4,
+#full-license h5 {
+	font-family: "Open Sans", sans-serif;
+}

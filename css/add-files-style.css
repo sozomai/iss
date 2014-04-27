@@ -1,0 +1,49 @@
+ul.lesson-list li  {
+	margin: 2px 5px;
+	padding: 0 28px;
+	width: 406px;
+	background: url('sort_icon.png') no-repeat 3px top ;
+}
+
+.ui-state-highlight { 
+	height: 25px; 
+	background: #aaa !important;
+	border: 3px solid #777;
+	width: 347px;
+}
+.tabs {
+	background: transparent;
+}
+
+.ui-tabs-nav {
+background: transparent;
+border-top: none;
+border-left: none;
+border-right: none;
+}
+
+.no-border {
+	border:none;
+}
+
+.no-border ul {
+	border:none;
+}
+
+.no-border ul li.ui-state-default {
+	border-bottom-width: 1px;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+
+.ui-state-active, 
+.ui-widget-content .ui-state-active, 
+.ui-widget-header .ui-state-active {
+	background: #3383bb;
+}
+
+.wp-core-ui .button, 
+.wp-core-ui .button-primary, 
+.wp-core-ui .button-secondary {
+	margin:10px 0;
+}
