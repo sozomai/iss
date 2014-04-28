@@ -1,5 +1,6 @@
 <?php
 /*
+ This is the development file
  Plugin Name: Invisible Sunday School
  Plugin URI: http://moladty.com/matt/iss
  Description: A unique plugin used for the distribution of the Invisible Sunday School material.
@@ -22,7 +23,6 @@
     You should have received a copy of the GNU General Public License
     along with this program; if not, write to the Free Software
     Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
-    This is a test
 */
 
 global $iss_db_version;
