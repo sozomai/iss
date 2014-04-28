@@ -1,5 +1,6 @@
 <?php
 /*
+ This is the master branch
  Plugin Name: Invisible Sunday School
  Plugin URI: http://moladty.com/matt/iss
  Description: A unique plugin used for the distribution of the Invisible Sunday School material.
