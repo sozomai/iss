@@ -3,7 +3,7 @@
  Plugin Name: Invisible Sunday School
  Plugin URI: http://moladty.com/matt/iss
  Description: A unique plugin used for the distribution of the Invisible Sunday School material.
- Version: 1.0
+ Version: 1.59
  Author: Matthew Ude
  Author URI: http://moldaty.com/matt
  License: GPL2
