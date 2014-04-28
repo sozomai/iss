@@ -1,6 +1,5 @@
 <?php
 /*
- This is the master branch
  This is the development file
  Plugin Name: Invisible Sunday School
  Plugin URI: http://moladty.com/matt/iss
